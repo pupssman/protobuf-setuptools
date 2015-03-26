@@ -1,6 +1,14 @@
 protobuf-setuptools
 ===================
 
+.. image:: https://pypip.in/v/protobuf-setuptools/badge.png
+        :alt: Release Status
+        :target: https://pypi.python.org/pypi/protobuf-setuptools
+.. image:: https://pypip.in/d/protobuf-setuptools/badge.png
+        :alt: Downloads
+        :target: https://pypi.python.org/pypi/protobuf-setuptools
+
+
 Setuptools protobuf plugin.
 
 Adds command to generate python probobuf stubs from .proto files.
