@@ -1,10 +1,10 @@
 protobuf-setuptools
 ===================
 
-.. image:: https://pypip.in/v/protobuf-setuptools/badge.png
+.. image:: https://img.shields.io/pypi/v/protobuf-setuptools.svg
         :alt: Release Status
         :target: https://pypi.python.org/pypi/protobuf-setuptools
-.. image:: https://pypip.in/d/protobuf-setuptools/badge.png
+.. image:: https://img.shields.io/pypi/dm/protobuf-setuptools.svg
         :alt: Downloads
         :target: https://pypi.python.org/pypi/protobuf-setuptools
 
